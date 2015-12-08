@@ -15,6 +15,6 @@ To use, just type the trigger described below and hit `TAB`.
 | Trigger | Conent |
 | ------: | ------ |
 | `class` | adds a class |
-| `uclass` | adds an unit class |
+| `uclass` | adds a unit class |
 
 Work in progres, feel free to contribute.

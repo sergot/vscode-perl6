@@ -1,7 +1,7 @@
 {
 	"name": "Perl6Snippets",
 	"description": "Code snippets for Perl 6",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"displayName": "Perl 6 code snippets",
 	"publisher": "sergot",
 	"icon": "images/perl6.png",
@@ -19,7 +19,7 @@
 	"contributes": {
 		"snippets": [{
 			"language": "perl6",
-			"path": "./snippets/snippets.json"
+			"path": "./snippets/perl6.json"
 		}]
 	}
 }
