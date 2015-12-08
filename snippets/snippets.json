@@ -1,12 +1,12 @@
 {
 	"class": {
 		"prefix": "class",
-		"body": "class ${name:1} {\n\t$0\n}\n",
+		"body": "class ${1:name} {\n\t$0\n}\n",
 		"description": "A class"
 	},
 	"unitClass": {
 		"prefix": "uclass",
-		"body": "unit class ${name:1};\n\n$0",
+		"body": "unit class ${1:name};\n\n$0",
 		"description": "An unit class"
 	}
 }
