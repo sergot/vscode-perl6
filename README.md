@@ -14,5 +14,7 @@ To use, just type the trigger described below and hit `TAB`.
 
 | Trigger | Conent |
 | ------: | ------ |
-| `todo`  | todo   |
+| `class` | adds a class |
+| `uclass` | adds an unit class |
 
+Work in progres, feel free to contribute.
