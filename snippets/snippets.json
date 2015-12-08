@@ -1,7 +1,12 @@
 {
-	"test": {
-		"prefix": "te",
-		"body": "use Panda;",
-		"description": "test"
+	"class": {
+		"prefix": "class",
+		"body": "class ${name:1} {\n $0 }\n",
+		"description": "A class"
+	},
+	"unitClass": {
+		"prefix": "uclass",
+		"body": "unit class ${name:1};\n\n$0",
+		"description": "An unit class"
 	}
 }
