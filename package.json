@@ -1,7 +1,7 @@
 {
 	"name": "Perl6Snippets",
 	"description": "Code snippets for Perl 6",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"displayName": "Perl 6 code snippets",
 	"publisher": "sergot",
 	"icon": "images/perl6.png",
