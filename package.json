@@ -1,0 +1,25 @@
+{
+	"name": "Perl6Snippets",
+	"description": "Code snippets for Perl 6",
+	"version": "0.0.1",
+	"displayName": "Perl 6 code snippets",
+	"publisher": "sergot",
+	"icon": "images/perl6.png",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/sergot/vscode-perl6"
+	},
+	"engines": {
+		"vscode": "0.10.x"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [{
+			"language": "perl6",
+			"path": "./snippets/snippets.json"
+		}]
+	}
+}

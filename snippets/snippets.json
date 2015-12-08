@@ -1,0 +1,7 @@
+{
+	"test": {
+		"prefix": "te",
+		"body": "use Panda;",
+		"description": "test"
+	}
+}
