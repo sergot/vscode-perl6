@@ -16,5 +16,6 @@ To use, just type the trigger described below and hit `TAB`.
 | ------: | ------ |
 | `class` | adds a class |
 | `uclass` | adds a unit class |
+| `gram` | adds a grammar |
 
 Work in progres, feel free to contribute.

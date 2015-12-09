@@ -8,5 +8,10 @@
 		"prefix": "uclass",
 		"body": "unit class ${1:name};\n\n$0",
 		"description": "A unit class"
+	},
+	"grammar": {
+		"prefix": "gram",
+		"body": "grammar ${1:name} {\n\ttoken TOP { $0 }\n}\n",
+		"description": "A grammar"
 	}
 }
