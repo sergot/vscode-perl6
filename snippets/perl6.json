@@ -13,5 +13,15 @@
 		"prefix": "gram",
 		"body": "grammar ${1:name} {\n\ttoken TOP { $0 }\n}\n",
 		"description": "A grammar"
+	},
+	"for": {
+		"prefix": "for",
+		"body": "for ${1:items} -> ${1:i} {\n\t$0\n}\n",
+		"description": "A for-loop"
+	},
+	"if": {
+		"prefix": "if",
+		"body": "if {1:condition} {\n\t$0\n}\n",
+		"description": "An if statement"
 	}
 }

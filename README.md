@@ -17,5 +17,8 @@ To use, just type the trigger described below and hit `TAB`.
 | `class` | adds a class |
 | `uclass` | adds a unit class |
 | `gram` | adds a grammar |
+| `for` | adds a for-loop |
+| `if` | adds an if statement |
+
 
 Work in progres, feel free to contribute.
