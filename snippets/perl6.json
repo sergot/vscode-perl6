@@ -23,5 +23,10 @@
 		"prefix": "if",
 		"body": "if {1:condition} {\n\t$0\n}\n",
 		"description": "An if statement"
+	},
+  "Define Pragmas": {
+	"prefix": "prag",
+	"body": "use strict;\nuse warnings;\nuse diagnostics;",
+	"description": "Import pragmas to force writing good code and provide warnings"
 	}
 }
